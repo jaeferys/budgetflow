@@ -192,7 +192,7 @@ https://github.com/jaeferys/budgetflow
 Live Demo:
 
 ```txt
-Coming soon
+https://budgetflow-amber.vercel.app
 ```
 
 ---
