@@ -1,0 +1,19 @@
+# Environment
+.env
+.env.local
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Node
+node_modules/
+dist/
+build/
+
+# OS/editor
+.DS_Store
+.vscode/
