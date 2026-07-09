@@ -104,7 +104,7 @@ This repository is currently set up as a Next.js app at the project root.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/budgetflow.git
+git clone https://github.com/jaeferys/budgetflow.git
 ```
 
 Go to the project folder:
@@ -172,6 +172,12 @@ git push
 ## Deployment
 
 This project is intended to be deployed using Vercel.
+
+GitHub repository:
+
+```txt
+https://github.com/jaeferys/budgetflow
+```
 
 ### Deployment Steps
 
